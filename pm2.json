@@ -1,6 +1,6 @@
 {
 	"apps": [{
-		"name": "hubot",
+		"name": "serpro-hubot",
 		"interpreter": "/bin/bash",
 		"watch": true,
 		"ignore_watch" : ["client/img"],
