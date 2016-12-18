@@ -74,7 +74,7 @@ processBodyJson = (body) ->
 	return lines.join('\n')
 
 replyWithNaturalDelay = (res, msg, elapsed=0) ->
-	keysPerSecond = 50
+	keysPerSecond = 100
 	maxResponseTimeInSeconds = 3
 
 	if typeof msg isnt 'string'
