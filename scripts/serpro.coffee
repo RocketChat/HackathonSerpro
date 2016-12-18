@@ -5,7 +5,7 @@ livechatTransferHuman = (res) ->
 	setTimeout ->
 		res.robot.adapter.callMethod 'livechat:transfer',
 			roomId: res.envelope.room
-			departmentId: '6ZBcwRix5QXeWsHha'
+			departmentId: process.env.DEPARTMENT_ID
 	, 1000
 
 setUserName = (res, name) ->
