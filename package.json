@@ -1,0 +1,15 @@
+{
+  "name": "serprobot",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Rodrigo Nascimento <rodrigoknascimento@gmail.com>",
+  "description": "A simple helpful robot",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-help": "^0.2.0",
+    "hubot-rocketchat": "1.0.7"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
