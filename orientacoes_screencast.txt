@@ -1,0 +1,12 @@
+Orientações de screencast
+
+– Duração: até 2 minutos.
+– Orientação de tela: retrato (tanto para dispositivo móvel quanto para PC).
+– PC: capturar imagens utilizando tela cheia (não exibir bordas da tela, ícones de notificação e outros elementos do Sistema Operacional hospedeiro).
+– Móvel: tela cheia ou evitar exibição de ícones de notificação e afins do Sistema Operacional do dispositivo.
+– Propaganda: não exibir mensagens que pareçam “propaganda” de serviços ou empresas relacionados ou não com a solução.
+– Tamanho de tela: alta definição, 720 x 480 – 16:9.
+– Frame rate: 29.9.
+– Som: nenhum som de fundo (música, cliques, etc.) a não ser voz Text to Speech (TTS) se a solução contar com esse recurso de acessibilidade.
+– Áudio: Nenhum tipo de narração. Enviar um texto para subsidiar a narração, que será feita pelo Serpro para padronizar os vídeos.
+– Sites: http://screencastle.com/.
